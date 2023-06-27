@@ -1,0 +1,7 @@
+com\mycompany\utils\MemoryStore.class
+com\mycompany\dao\AutoDao.class
+com\mycompany\controllers\TestMain.class
+com\mycompany\crud\resources\JakartaEE10Resource.class
+com\mycompany\crud\JakartaRestConfiguration.class
+com\mycompany\model\Auto.class
+com\mycompany\controllers\AutoController.class
